@@ -12,7 +12,3 @@
 
 - Gmail: all gmail accounts are allowed
 - Facebook: Not all accounts are allowed. To make it possible for all users we need to provide, Privacy Policy URL and Terms of Service URL. It will take time this feature to be activated. Please prefer Gmail for login.
-
-  
-
-

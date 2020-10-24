@@ -1,6 +1,8 @@
 
 # HackYourShop
 
+<img src="https://i.ibb.co/gdmNbny/Hackyourshop.png" width="50%" height="50%">
+
 > HackYourShop is a MERN stack e-commerce application helps seller and customers meet and interact on the functional platform. 
 > 
 > You can reach the demo version here:
